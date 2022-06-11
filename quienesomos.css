@@ -82,11 +82,13 @@ body {
 .img111 {
   width: 50px;
   height: 50px;
-  transition: all 2s;
+  transition: all 0.5s;
+  border-radius: 50px;
+  margin: 5px;
 }
 .img111:hover {
   box-shadow: 0.1rem 0.5rem 0.3rem #979797;
-  transform: translateY(10px);
+  transform: translateY(7px);
 }
 .footer3 .lista22 {
   list-style: none;
